@@ -14,13 +14,13 @@ function Footer() {
   return (
     <>
     <animated.footer style={animation} className="footer">
-      <a href="https://github.com/yourusername" target="_blank" rel="noopener noreferrer">
+      <a href="https://github.com/shalini0517" target="_blank" rel="noopener noreferrer">
         <FaGithub color="black" size="1.5em" />
       </a>
-      <a href="https://linkedin.com/in/yourusername" target="_blank" rel="noopener noreferrer">
+      <a href="https://www.linkedin.com/in/shalini-patel-6343b2218" target="_blank" rel="noopener noreferrer">
         <FaLinkedin color="black" size="1.5em" />
       </a>
-      <a href="mailto:your.email@example.com">
+      <a href="mailto:shalinipatel1702@gmail.com">
         <FaEnvelope color="black" size="1.5em" />
       </a>
     </animated.footer>
