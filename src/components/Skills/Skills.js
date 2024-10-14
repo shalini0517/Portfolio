@@ -41,17 +41,17 @@ export default function Skills() {
                 </animated.div>
                 <br/>
                 <animated.div style={animation_skills} className="language-icons">
-                    <i className="fab fa-html5" style={{color:"black"}}></i>
-                    <i className="fab fa-css3-alt" style={{color:"black"}}></i>
-                    <i className="fab fa-js-square" style={{color:"black"}}></i>
-                    <i className="fab fa-python" style={{color:"black"}}></i>
-                    <i className="fab fa-cuttlefish" style={{color:"black"}}></i>
-                    <i className="fab fa-react" style={{color:"black"}}></i>
-                    <i className="fas fa-gem" style={{color:"black"}}></i>
-                    <i className="fab fa-git" style={{color:"black"}}></i>
-                    <i className="fab fa-aws" style={{color:"black"}}></i>
-                    <i className="fas fa-database"style={{color:"black"}} ></i>
-                <i className="fas fa-leaf" style={{color:"black"}}></i>
+                    <i className="fab fa-html5" ></i>
+                    <i className="fab fa-css3-alt" ></i>
+                    <i className="fab fa-js-square" ></i>
+                    <i className="fab fa-python" ></i>
+                    <i className="fab fa-cuttlefish" ></i>
+                    <i className="fab fa-react" ></i>
+                    <i className="fas fa-gem" ></i>
+                    <i className="fab fa-git" ></i>
+                    <i className="fab fa-aws" ></i>
+                    <i className="fas fa-database" ></i>
+                <i className="fas fa-leaf" ></i>
                 </animated.div>
             </div>
         </animated.section>

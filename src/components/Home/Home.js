@@ -68,7 +68,6 @@ export default function Home() {
         <br></br>
         <br></br>
         <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam vitae leo a dui rhoncus ultrices. Morbi dapibus porttitor mi, ac mattis odio egestas non. Quisque convallis, orci vitae vehicula pulvinar, nisl dui tempus nunc, nec sodales nisl ante sed augue. Integer mattis mattis velit, ac malesuada purus eleifend a. Vestibulum varius ex risus, non maximus erat viverra ut. Ut semper pulvinar purus. Maecenas mattis ante ac ante ullamcorper finibus. Duis a risus in leo ullamcorper commodo. Etiam eu tempus diam, id lacinia dolor. Nam a rutrum ipsum. Curabitur vestibulum lacus non risus bibendum dapibus. Sed lacus magna, commodo vitae laoreet vel, cursus vel elit. Mauris at consequat leo.Ut ullamcorper lacus ut orci condimentum condimentum. Maecenas ut faucibus velit. Vestibulum a quam quis dolor cursus tincidunt. Quisque ac nisi in sem gravida aliquam in imperdiet lectus. Vestibulum congue euismod aliquam. Vestibulum mollis finibus lacus in lacinia. Suspendisse potenti. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Sed scelerisque lorem id sapien tempus feugiat. Pellentesque eget tempor nulla. Aenean at iaculis libero. Donec dapibus tellus orci, et ullamcorper dui feugiat sit amet.
         </p>
         </animated.div>
     </section>

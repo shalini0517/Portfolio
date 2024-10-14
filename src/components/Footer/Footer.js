@@ -15,13 +15,13 @@ function Footer() {
     <>
     <animated.footer style={animation} className="footer">
       <a href="https://github.com/shalini0517" target="_blank" rel="noopener noreferrer">
-        <FaGithub color="black" size="1.5em" />
+        <FaGithub color="white" size="1.5em" />
       </a>
       <a href="https://www.linkedin.com/in/shalini-patel-6343b2218" target="_blank" rel="noopener noreferrer">
-        <FaLinkedin color="black" size="1.5em" />
+        <FaLinkedin color="white" size="1.5em" />
       </a>
       <a href="mailto:shalinipatel1702@gmail.com">
-        <FaEnvelope color="black" size="1.5em" />
+        <FaEnvelope color="white" size="1.5em" />
       </a>
     </animated.footer>
     </>
