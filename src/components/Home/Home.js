@@ -59,7 +59,7 @@ export default function Home() {
             <img
                 className="object-cover object-center rounded h-50 w-48"
                 alt="hero"
-                src="./newdp.jpeg"
+                src="./profile.jpg"
             />
         </div>
       </div>
