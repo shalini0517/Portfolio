@@ -67,8 +67,21 @@ export default function Home() {
         I'm Shalini Patel, a Full Stack Developer with a focus on Ruby on Rails and React.js. I've spent two years worked on various projects, gaining experience in Ruby on Rails. I've worked with databases like MySQL, SQL, PostgreSQL, and have some understanding of MongoDB.
         <br></br>
         <br></br>
-        <p>
-        </p>
+        <p>I'm passionate about building efficient and scalable web applications that address real-world challenges. With a constant drive to learn, I&rsquo;m always exploring new technologies and striving to improve my skill set.</p>
+        <br></br>
+        <p>What I Do</p>
+        <br></br>
+        <ul className="list-disc list-inside">
+            <li>Web Development: I specialize in creating responsive, user-friendly web applications using React.js for dynamic frontends and Ruby on Rails for robust backends.</li>
+            <li>Full-Stack Expertise: With a strong command of React.js and Ruby on Rails, I create seamless, end-to-end web solutions that integrate both frontend and backend efficiently.</li>
+            <li>API Development: Proficient in building RESTful APIs with Ruby on Rails, ensuring smooth communication between frontend and backend services.</li>
+            <li>Scalability & Performance: My focus is on writing clean, maintainable code that ensures optimal performance, making sure that applications can scale effortlessly.</li>
+            <li>Open-Source Contributions: I enjoy giving back to the developer community by contributing to open-source projects and sharing knowledge with fellow developers.</li>
+        </ul>
+        <br></br>
+        <p>Let&rsquo;s Connect </p>
+        <p>I&rsquo;m excited about the potential to collaborate and take on new challenges. If you&rsquo;re interested in working together or just want to chat about technology, feel free to reach out!</p>
+        <br></br>
         </animated.div>
     </section>
   )
