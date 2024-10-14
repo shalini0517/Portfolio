@@ -1,0 +1,40 @@
+.d-flex {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+}
+
+.about-text {
+    flex: 1;
+    margin-right: 20px;
+}
+
+.about-image {
+    flex: 1;
+}
+
+.about-image img {
+    max-width: 100%;
+    height: auto;
+}
+
+.title-font {
+    letter-spacing: 0.1em;
+}
+
+.education-section {
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.education-title {
+    font-size: 1.5em;
+    font-weight: bold;
+    color: #edf2f7;
+    margin-bottom: 10px;
+}
+
+.education-text {
+    color: #edf2f7;
+    line-height: 1.6;
+}

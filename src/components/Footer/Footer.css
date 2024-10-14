@@ -1,0 +1,35 @@
+/* Footer.css */
+.footer {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    color: black;
+    padding: 1em;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+  }
+  
+  .footer a {
+    color: #fff;
+    margin: 0 1em;
+    text-decoration: none;
+    transition: color 0.5s ease;
+  }
+  
+  .footer a:hover {
+    color: black;
+  }
+  
+  /* Media query for screens smaller than 600px */
+  @media (max-width: 600px) {
+    .footer {
+      flex-direction: row;
+    }
+  
+    .footer a {
+      margin: 0.5em 0; /* Stack the links vertically on small screens */
+    }
+  }

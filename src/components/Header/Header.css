@@ -1,0 +1,33 @@
+.navbar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: black;
+  }
+  
+  .navbar li {
+    float: left;
+  }
+  
+  .navbar li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  .navbar li a:hover {
+    background-color: #a69f9f;
+  }
+
+  @media (max-width: 600px) {
+    .fixed-header {
+      flex-direction: column; /* Stack the links vertically on small screens */
+    }
+
+    .fixed-header a {
+      margin: 0.5em 0;
+    }
+}
