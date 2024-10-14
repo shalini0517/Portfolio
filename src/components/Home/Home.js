@@ -70,7 +70,6 @@ export default function Home() {
         <p>I'm passionate about building efficient and scalable web applications that address real-world challenges. With a constant drive to learn, I&rsquo;m always exploring new technologies and striving to improve my skill set.</p>
         <br></br>
         <p>What I Do</p>
-        <br></br>
         <ul className="list-disc list-inside">
             <li>Web Development: I specialize in creating responsive, user-friendly web applications using React.js for dynamic frontends and Ruby on Rails for robust backends.</li>
             <li>Full-Stack Expertise: With a strong command of React.js and Ruby on Rails, I create seamless, end-to-end web solutions that integrate both frontend and backend efficiently.</li>
