@@ -34,7 +34,7 @@ export default function Projects() {
                         <li>Served as a key backend Ruby on Rails developer, responsible for building RESTful APIs and the administrative interface from scratch.</li>
                         <li>Made significant contributions to this project over a period of 1.5 years.</li>
                         <li>Implemented KYC (Know Your Customer) integration using Persona, enhancing user verification processes.</li>
-                        <li>worked on Real-Time Applications for Chat and live notifications using Action Cable</li>
+                        <li>Worked on Real-Time Applications for Chat and live notifications using Action Cable</li>
                     </ul>
                 </animated.div>
                 <br/>
