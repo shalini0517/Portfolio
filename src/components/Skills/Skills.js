@@ -23,8 +23,8 @@ export default function Skills() {
                     <ul className="list-disc list-inside">
                         <li>Proficiency in HTML, CSS, Tailwind CSS, JavaScript, Python, and C++.</li>
                         <li>Experience with front-end frameworks like React JS.</li>
-                        <li>Experience with back-end development using Ruby on Rails.</li>
-                        <li>Strong understanding of databases, including MySQL, PostgresSQL and MongoDB.</li>
+                        <li>Experience with back-end development using Ruby on Rails and Express JS.</li>
+                        <li>Strong understanding of databases, including MySQL, PostgreSQL and MongoDB.</li>
                         <li>Experience with version control systems like Git.</li>
                         <li>Worked on Growthbook, an open-source platform that helps companies make data-driven product decisions using feature flags and A/B tests.</li>
                         <li>Strong problem-solving skills and ability to learn new technologies quickly.</li>
