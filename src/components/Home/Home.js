@@ -55,13 +55,6 @@ export default function Home() {
         </animated.button>
           </div>
         </div>
-        <div className="lg:max-w-lg lg:w-full md:w-1/2 w-5/6">
-            <img
-                className="object-cover object-center rounded h-50 w-48"
-                alt="hero"
-                src="./profile.jpg"
-            />
-        </div>
       </div>
         <animated.div style={animation_about} className="animated-div mx-10 p-10" id="about">
         I'm Shalini Patel, a Full Stack Developer with a focus on Ruby on Rails and React.js. I've spent two years worked on various projects, gaining experience in Ruby on Rails. I've worked with databases like MySQL, SQL, PostgreSQL, and have some understanding of MongoDB.
